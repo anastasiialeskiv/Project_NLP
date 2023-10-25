@@ -52,6 +52,10 @@ wilson_lower_bound
 
 # Exploratory Data Analysis
 
+<img width="937" alt="Screenshot 2023-10-25 at 5 54 21 PM" src="https://github.com/anastasiialeskiv/Movies_Exploratory_Data_Analysis/assets/124845922/e8b6c37b-e783-4db2-ac4b-58f962a0dbdf">
+
+In this visualization I want to show how many reviews in each category from 1 to 5 stars review
+
 ![image](https://github.com/anastasiialeskiv/Movies_Exploratory_Data_Analysis/assets/124845922/0d0487e1-3f3d-4e2f-86d2-fedfdede56a3)
 
 Each square shows the correlation between the variables on each axis. Correlation ranges from -1 to +1. Values closer to zero means there is no linear trend between the two variables. The close to 1 the correlation is the more positively correlated they are; that is as one increases so does the other and the closer to 1 the stronger this relationship is. A correlation closer to -1 is similar, but instead of both increasing one variable will decrease as the other increases. The diagonals are all 1/dark because those squares are correlating each variable to itself (so it's a perfect correlation). For the rest the larger the number and darker the color the higher the correlation between the two variables. In this particular case we can see that Total vote and Helpful yes and no have extremely high correlation.
@@ -72,7 +76,7 @@ Here in this visualization we can see the most common words in negative reviews
 
 Here in this visualization we can see the most common words in good (3stars) reviews
 
-<img width="937" alt="Screenshot 2023-10-25 at 5 54 21 PM" src="https://github.com/anastasiialeskiv/Movies_Exploratory_Data_Analysis/assets/124845922/e8b6c37b-e783-4db2-ac4b-58f962a0dbdf">
+
 
 I also decided to check what the common words for each section are: “Positive”,”Good”, and “Negative”.
 
