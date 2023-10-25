@@ -56,6 +56,17 @@ wilson_lower_bound
 
 In this visualization I want to show how many reviews in each category from 1 to 5 stars review
 
+5 stars review  -  3921
+
+4 stars review  -  526
+
+3 stars review  -  142
+
+2 stars review  -  80
+
+1 stars review  -  244
+
+
 ![image](https://github.com/anastasiialeskiv/Movies_Exploratory_Data_Analysis/assets/124845922/0d0487e1-3f3d-4e2f-86d2-fedfdede56a3)
 
 Each square shows the correlation between the variables on each axis. Correlation ranges from -1 to +1. Values closer to zero means there is no linear trend between the two variables. The close to 1 the correlation is the more positively correlated they are; that is as one increases so does the other and the closer to 1 the stronger this relationship is. A correlation closer to -1 is similar, but instead of both increasing one variable will decrease as the other increases. The diagonals are all 1/dark because those squares are correlating each variable to itself (so it's a perfect correlation). For the rest the larger the number and darker the color the higher the correlation between the two variables. In this particular case we can see that Total vote and Helpful yes and no have extremely high correlation.
