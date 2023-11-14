@@ -109,7 +109,7 @@ Now I can get ever better idea of what product is rewiev about or why the produc
 
 ![image](https://github.com/anastasiialeskiv/Movies_Exploratory_Data_Analysis/assets/124845922/4525c60f-d0fe-432a-ac87-c8b7e7a15329)
 
-See the diagonal elements (893, 906, 854), we observe that they represent correctly predicted records, while the rest correspond to instances that were incorrectly classified by the algorithm. This highlights the importance of evaluating not only accuracy but also other metrics like precision, recall, and the F1 score to gain a comprehensive understanding of the model's performance.
+See the diagonal elements (893, 906, 854), we observe that they represent correctly predicted records, while the rest correspond to instances that were incorrectly classified by the algorithm. This highlights the importance of evaluating not only accuracy but also other metrics like precision, recall, and the F1 score to gain a comprehensive understanding of the model's performance. For the result I used Logistic Regression with hyperparameter tuning this is a machine learning model, specifically a classification model. Logistic Regression is a type of regression analysis used for predicting the probability of a binary outcome  based on one or more predictor variables. It's commonly used in binary classification problems, where the goal is to classify instances into one of two classes.
 
 # Evaluation
 
